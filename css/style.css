@@ -107,7 +107,12 @@
   .header .menu-btn:checked ~ .menu-icon:not(.steps) .navicon:after {
     top: 0;
   }
-  
+  @media (max-width: 48em) {
+  .header .menu-btn:checked ~ .menu{
+    max-height: 400px;
+    }
+  }
+
   /* 48em = 768px */
   
   @media (min-width: 48em) {
@@ -42698,6 +42703,7 @@ h6.subtitle,
     .elementor-2050 .elementor-element.elementor-element-c67dac1 {
         width: 60%;
     }
+    
 }
 
 
@@ -42711,7 +42717,7 @@ h6.subtitle,
 }
 
 .elementor-2098 .elementor-element.elementor-element-6c90070 {
-    background-image: url("../images/03.jpg");
+    background-image: url("../images/IMG-20241018-WA0363.jpg");
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
