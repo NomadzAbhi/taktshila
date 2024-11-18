@@ -50464,9 +50464,9 @@ h6.subtitle,
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
     margin-top: 0px;
     margin-bottom: 0px;
-    padding: 70px 0px 70px 0px;
+    padding: 0px 0px 340px 0px;
     z-index: 2;
-    background-position: center center;
+    background-position: center bottom;
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -50481,7 +50481,7 @@ h6.subtitle,
 
 .elementor-826 .elementor-element.elementor-element-bbe2ff8 .elementor-heading-title {
     font-size: 26px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.3em;
 }
 
