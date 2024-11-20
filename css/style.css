@@ -42717,8 +42717,8 @@ h6.subtitle,
 }
 
 .elementor-2098 .elementor-element.elementor-element-6c90070 {
-    background-image: url("../images/IMG-20241018-WA0363.jpg");
-    background-position: center center;
+    background-image: url("../images/1\ \(1\).jpg");
+    background-position: center top;
     background-repeat: no-repeat;
     background-size: cover;
     transition: background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;
@@ -42744,7 +42744,8 @@ h6.subtitle,
 }
 
 .elementor-2098 .elementor-element.elementor-element-294a668.elementor-widget-heading .elementor-heading-title {
-    color: #ffffff;
+    color: #fff;
+    font-weight: 600;
 }
 
 .elementor-2098 .elementor-element.elementor-element-294a668 .elementor-heading-title {
