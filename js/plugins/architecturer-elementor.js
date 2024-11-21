@@ -2562,7 +2562,7 @@ function is_touch_device() {
 		//Start execute javascript for horizontal timeline
 		elementorFrontend.hooks.addAction( 'frontend/element_ready/architecturer-horizontal-timeline.default', function( $scope ) {
 			var timelines = jQuery('.cd-horizontal-timeline'),
-			eventsMinDistance = 60;
+			eventsMinDistance = 150;
 	
 		(timelines.length > 0) && initTimeline(timelines);
 	
